@@ -17,7 +17,6 @@ Seja bem vindo à documentação do Acesso Cidadão!
     Papel/Index
     Papel/Tipos
     Papel/ComoCriar
-    Papel/CargaRh
 
 .. toctree::
     :maxdepth: 3
@@ -26,7 +25,6 @@ Seja bem vindo à documentação do Acesso Cidadão!
 
     Grupo/Index
     Grupo/Tipos
-    Grupo/CargaRh
     Grupo/ComoCriar
 
 .. toctree::

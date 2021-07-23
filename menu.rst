@@ -15,8 +15,8 @@ Seja bem vindo à documentação do Acesso Cidadão!
     :caption: Papéis
 
     Papel/Index
-    Papel/CargaRh
     Papel/ComoCriar
+    Papel/CargaRh
 
 .. toctree::
     :maxdepth: 3

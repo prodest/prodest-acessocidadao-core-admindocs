@@ -15,6 +15,7 @@ Seja bem vindo à documentação do Acesso Cidadão!
     :caption: Papéis
 
     Papel/Index
+    Papel/Tipos
     Papel/ComoCriar
     Papel/CargaRh
 

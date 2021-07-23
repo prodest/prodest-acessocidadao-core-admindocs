@@ -12,8 +12,11 @@ Os dados de organizações e suas unidades são controlados pelo Organograma, um
   
 ## Siarhes
 
-O Sistema Integrado de Administração de Recursos Humanos do Espírito Santo, Siarhes, é uma ferramenta de administração utilizada para gestão do pessoal ativo no âmbito do Poder Executivo - Administração Direta, Autarquias e Fundações - e para o pagamento de Benefícios Previdenciário dos poderes Executivo, Legislativo e Judiciário.
+O Sistema Integrado de Administração de Recursos Humanos do Espírito Santo, Siarhes, é uma ferramenta de administração utilizada para gestão do pessoal ativo no âmbito 
+do Poder Executivo - Administração Direta, Autarquias e Fundações - e para o pagamento de Benefícios Previdenciário dos poderes Executivo, Legislativo e Judiciário.  
 
+Todos os dias, às 05h00 os dados do SIARHES são importados para o Acesso Cidadão. Essa operação tem duração média de 30 minutos e se faz 
+necessária para atualizar todas as informações sobre os papéis e grupos de cada agente público.
 ### Gestores
 
 A rotina de carga de gestores é responsável por determinar de forma automática os gestores de cada uma das unidades organizacionais importadas do sistema Organograma. Para isso são usadas informações tanto do Organograma quanto do Siarhes.

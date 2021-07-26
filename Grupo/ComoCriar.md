@@ -1,4 +1,4 @@
-# Como criar um grupo
+# Como Criar Um Grupo
 
 Os Grupos Manuais podem ser criados por iniciativa do agente público. Para tanto, basta seguir os passos listados abaixo:  
 &nbsp;  

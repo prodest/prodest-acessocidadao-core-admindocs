@@ -1,4 +1,4 @@
-# Permissões no AC
+# Autorizações no Acesso Cidadão
 
 O esquema de autorizações do Acesso Cidadão envolve a criação de perfis e recursos e suas atribuições aos variados tipos de funções que 
 os agentes públicos podem desempenhar em um sistema.  
@@ -68,8 +68,8 @@ XXXX
 
 ### Gestor
 
-Responsável por definir quem são os agentes públicos podem conceder permissões dentro de um sistema.  
+Responsável por definir quem são os agentes públicos podem conceder autrizações dentro de um sistema.  
 
 ### Conceder Permissão
 
-É quem concede as permissões de um recurso específico para um agente público.
+É quem concede as autorizações de um recurso específico para um agente público.

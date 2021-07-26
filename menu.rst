@@ -30,11 +30,11 @@ Seja bem vindo à documentação do Acesso Cidadão!
 .. toctree::
     :maxdepth: 3
     :hidden:
-    :caption: Permissão
+    :caption: Autorizações
 
-    Permissao/Index
-    Permissao/ComoConceder
-    Permissao/Gestao
+    Autorizacao/Index
+    Autorizacao/ComoConceder
+    Autorizacao/Gestao
     
 .. toctree::
     :maxdepth: 3

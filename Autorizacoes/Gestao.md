@@ -7,11 +7,11 @@ dentro daquilo que pode desempenhar.
 
 ### Proprietário
 
-XXXX
+Possui acesso irrestrito sobre o sistema e ainda conta com privilégio de deleção do sistema.
 
 ### Desenvolvedor
 
-XXXX  
+Possui acesso irrestito sobre o sistema.  
 
 ### Gestor
 

@@ -32,9 +32,9 @@ Seja bem vindo à documentação do Acesso Cidadão!
     :hidden:
     :caption: Autorizações
 
-    Autorizacao/Index
-    Autorizacao/ComoConceder
-    Autorizacao/Gestao
+    Autorizacoes/Index
+    Autorizacoes/ComoConceder
+    Autorizacoes/Gestao
     
 .. toctree::
     :maxdepth: 3
